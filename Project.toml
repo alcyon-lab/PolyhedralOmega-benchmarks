@@ -1,0 +1,6 @@
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+PolyhedralOmega = "eaf9ee71-49fa-48f8-9df8-a09e5cbbfabf"
+
+[compat]
+PolyhedralOmega = "0.2"
